@@ -1,2 +1,2 @@
-# Hello， 我是lemon，这是我的个人网站
+# Hello， 我是lemon.
 下面是我的作品集介绍
